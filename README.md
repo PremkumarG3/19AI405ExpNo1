@@ -107,3 +107,6 @@ agent.print_status()
 ## Output:
 ![Output_AI](https://github.com/PremkumarG3/19AI405ExpNo1/assets/138955646/73444cad-f265-4c8e-a2b9-a67131ce6df2)
 
+## Result:
+Thus,an AI agent is developed successfully.
+
